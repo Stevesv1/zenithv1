@@ -1,11 +1,12 @@
-- 👋 **Hi, I’m @zenithv1**
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning coding
-- 📫 How to reach me : Sorry
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You are currently reading this line
+<h1 align="center">Hi 👋, I'm Zenith</h1>
+<h3 align="center">A passionate web3 guy from India</h3>
 
-<!---
-zenithv1/zenithv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://twitter.com/zun50" target="blank"><img src="https://img.shields.io/twitter/follow/zun50?logo=twitter&style=for-the-badge" alt="zun50" /></a> </p>
+
+- 👀 I’m interested in **Web3**
+
+- 🌱 I’m currently learning **coding**
+
+- 📫 How to reach me **Sorry**
+
+- ⚡ Fun fact **You are currently reading this line**
