@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zenith</h1>
 <h3 align="center">A passionate web3 guy from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenithv1" alt="zenithv1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenithv1" alt="zenithv1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zun50" target="blank"><img src="https://img.shields.io/twitter/follow/zun50?logo=twitter&style=for-the-badge" alt="zun50" /></a> </p>
+<p align="center"> <a href="https://twitter.com/zun50" target="blank"><img src="https://img.shields.io/twitter/follow/zun50?logo=twitter&style=for-the-badge" alt="zun50" /></a> </p>
 
 - 👀 I’m interested in **Web3**
 
