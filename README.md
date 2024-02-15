@@ -7,11 +7,11 @@
 
 <p align="center"> - 👀 I’m interested in **Web3** </p>
 
-- 🌱 I’m currently learning **coding**
+<p align="center"> - 🌱 I’m currently learning **coding** </p>
 
-- 📫 How to reach me **Sorry**
+<p align="center"> - 📫 How to reach me **Sorry** </p>
 
-- ⚡ Fun fact **You are currently reading this line** </p>
+<p align="center"> - ⚡ Fun fact **You are currently reading this line** </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenithv1&show_icons=true&locale=en" alt="zenithv1" />
 
