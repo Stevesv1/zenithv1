@@ -13,11 +13,6 @@
 
 - ⚡ Fun fact **You are currently reading this line**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zun50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zun50" height="30" width="40" /></a>
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenithv1&show_icons=true&locale=en" alt="zenithv1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenithv1&" alt="zenithv1" /></p>
