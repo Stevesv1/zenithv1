@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://twitter.com/zun50" target="blank"><img src="https://img.shields.io/twitter/follow/zun50?logo=twitter&style=for-the-badge" alt="zun50" /></a> </p>
 
-- 👀 I’m interested in **Web3**
+<p align="center"> - 👀 I’m interested in **Web3**
 
 - 🌱 I’m currently learning **coding**
 
 - 📫 How to reach me **Sorry**
 
-- ⚡ Fun fact **You are currently reading this line**
+- ⚡ Fun fact **You are currently reading this line** </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenithv1&show_icons=true&locale=en" alt="zenithv1" /></p>
 
