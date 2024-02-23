@@ -9,7 +9,7 @@
 
 <p align="center">  🌱 I’m currently learning Coding </p>
 
-<p align="center">  📫 How to reach me Sorry </p>
+<p align="center">  📫 How to reach me ⭐ Sorry </p>
 
 <p align="center">  ⚡ Fun fact You are currently reading this line </p>
 
